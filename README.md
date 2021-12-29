@@ -1,2 +1,1 @@
-# Linux-course
-#Github course
+# Linux-course #Github course
