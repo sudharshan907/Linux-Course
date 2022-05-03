@@ -1,6 +1,6 @@
 1)forgot to collect design template(.docx format) and didnot collect sample design documents also
 
-2)quick read on sdlc(https://www.betsol.com/blog/7-stages-of-sdlc-how-to-keep-development-teams-running/)
+2)quick read on SDLC(https://www.betsol.com/blog/7-stages-of-sdlc-how-to-keep-development-teams-running/)
 
 3)SDDC(https://blog.nfocus.co.uk/sdlc-vs-sddc)
 
