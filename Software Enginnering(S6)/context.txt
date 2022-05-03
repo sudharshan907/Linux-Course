@@ -1,1 +1,7 @@
-forgot to collect design template(.docx format) and didnot collect sample design documents also
+1)forgot to collect design template(.docx format) and didnot collect sample design documents also
+
+2)quick read on sdlc(https://www.betsol.com/blog/7-stages-of-sdlc-how-to-keep-development-teams-running/)
+
+3)SDDC(https://blog.nfocus.co.uk/sdlc-vs-sddc)
+
+4)Against SRS(https://www.purrweb.com/blog/you-dont-need-srs-explaining-why-specification-is-a-relic-of-the-past/)
